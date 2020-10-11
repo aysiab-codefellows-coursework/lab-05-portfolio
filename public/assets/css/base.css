@@ -1,5 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
 
 /*
 	Prologue by HTML5 UP
@@ -128,6 +129,7 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
+		font-family: 'Grand Hotel', cursive;
 	}
 
 		h2.alt {
